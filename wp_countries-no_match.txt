@@ -1,0 +1,4 @@
+,0
+0,Guinea-Bissau
+1,Korean
+2,"Korea, South"
